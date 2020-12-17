@@ -4,11 +4,9 @@ import ExplodingHeadComponent from './ExplodingHeadComponent';
 
 function App() {
   return (
-    <body>
-      <div class='background'>
-        <ExplodingHeadComponent />
-      </div>
-    </body>
+    <div className='background'>
+      <ExplodingHeadComponent />
+    </div>
   );
 }
 
