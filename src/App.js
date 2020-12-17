@@ -2,7 +2,7 @@ import './App.css';
 import ExplodingHeadComponent from './ExplodingHeadComponent';
 
 
-function App() {
+const App = () => {
   return (
     <div className='background'>
       <ExplodingHeadComponent />
