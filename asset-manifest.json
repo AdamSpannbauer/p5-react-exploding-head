@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/p5-react-exploding-head/static/css/main.fd277215.chunk.css",
+    "main.js": "/p5-react-exploding-head/static/js/main.95ce2f75.chunk.js",
+    "main.js.map": "/p5-react-exploding-head/static/js/main.95ce2f75.chunk.js.map",
+    "runtime-main.js": "/p5-react-exploding-head/static/js/runtime-main.326244f9.js",
+    "runtime-main.js.map": "/p5-react-exploding-head/static/js/runtime-main.326244f9.js.map",
+    "static/js/2.d9ee7ccf.chunk.js": "/p5-react-exploding-head/static/js/2.d9ee7ccf.chunk.js",
+    "static/js/2.d9ee7ccf.chunk.js.map": "/p5-react-exploding-head/static/js/2.d9ee7ccf.chunk.js.map",
+    "static/js/3.33511a10.chunk.js": "/p5-react-exploding-head/static/js/3.33511a10.chunk.js",
+    "static/js/3.33511a10.chunk.js.map": "/p5-react-exploding-head/static/js/3.33511a10.chunk.js.map",
+    "index.html": "/p5-react-exploding-head/index.html",
+    "static/css/main.fd277215.chunk.css.map": "/p5-react-exploding-head/static/css/main.fd277215.chunk.css.map",
+    "static/js/2.d9ee7ccf.chunk.js.LICENSE.txt": "/p5-react-exploding-head/static/js/2.d9ee7ccf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.326244f9.js",
+    "static/js/2.d9ee7ccf.chunk.js",
+    "static/css/main.fd277215.chunk.css",
+    "static/js/main.95ce2f75.chunk.js"
+  ]
+}
